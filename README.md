@@ -1,4 +1,27 @@
-## Hi there 👋
+# Bienvenido a mi portada de Github
+
+## Contreras Backend Developer
+
+### Mis lenguajes favoritos
+- JavaScript
+- Python
+- Php
+- Dart
+- C
+- Java
+
+
+### Frameworks favoritos
+- Flet
+
+~~~
+console.log('Hello word');
+print("Hello world")
+echo("Hello world");
+print("Hello world");
+printf("Hello word");
+System.out.println("Hello word");
+~~~
 
 <!--
 **JulioCesar10-git/JulioCesar10-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
